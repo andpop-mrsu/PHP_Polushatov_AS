@@ -1,0 +1,18 @@
+{
+    "name": "igor/task03",
+    "autoload": {
+        "psr-4": {
+            "Igor\\Task03\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IgorNadkin"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "4.10",
+        "slim/psr7": "^1.7"
+    }
+}
