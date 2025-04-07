@@ -1,0 +1,22 @@
+{
+    "name": "polus/gcd",
+    "description": "Игра для вычисления наибольшего общего делителя (НОД) двух чисел",
+    "type": "project",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.15"
+    },
+    "autoload": {
+        "files": [
+            "src/Controller.php",
+            "src/View.php"
+        ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AlexeyPolush",
+            "email": "aplou00@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
